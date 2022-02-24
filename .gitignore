@@ -1,0 +1,4 @@
+# api keys
+.DS_Store
+config.py
+.ipynb_checkpoints
